@@ -2,6 +2,8 @@
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
+active : false  # Activate this widget? true/false
+
 
 # This file represents a page section.
 headless: true

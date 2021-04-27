@@ -2,6 +2,9 @@
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
+active : false  # Activate this widget? true/false
+
+
 
 # This file represents a page section.
 headless: true
@@ -15,7 +18,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   form:
     provider: netlify
@@ -24,7 +27,7 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-  
+
 design:
   columns: '2'
 ---
