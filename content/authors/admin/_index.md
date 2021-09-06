@@ -52,13 +52,14 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://aede.osu.edu/our-people/christina-gore
+- icon: cv
+  icon_pack: ai
+  link: media/Gore_CV_Aug21.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/Gore_CV_Aug21.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
