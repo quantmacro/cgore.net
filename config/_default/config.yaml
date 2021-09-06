@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Christina Gore # Website name
-baseurl: 'https://cgore.netlify.app/' # Website URL
+baseurl: 'https://christinagore.org/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################

@@ -14,7 +14,7 @@ organizations:
   url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a 5th year PhD Candidate in AED Economics at The Ohio State University.
+bio: I am PhD candidate studying environmental, regional, and transportation economics in The Ohio State University's Department of Agricultural, Environmental, and Development Economics. My research focuses on the behavioral drivers, policy interventions, and incentives to increase sustainable technology adoption including electric vehicles and public transportation. I strive to answer questions in my research that are both academically interesting and policy relevant.
 
 # Interests to show in About widget
 interests:
