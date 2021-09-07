@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Research
-    url: '#featured'
+    url: 'publication/'
     weight: 20
   - name: Presentations
     url: 'event/'
