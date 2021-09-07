@@ -16,4 +16,6 @@ header:
 
 ## AEDE 4330 The Sustainable Economy: Concepts and Methods -- Spring 2020
 
-{{< icon name="download" pack="fas" >}} Summary of {{< staticref "media/Summary_of_Teaching_Evaluations.pdf" "newtab" >}}course evaluations{{< /staticref >}}.
+- {{< icon name="file-alt" pack="fas" >}} {{< staticref "media/Syllabus_AEDE4330.pdf" "newtab" >}}Syllabus{{< /staticref >}}.
+
+- {{< icon name="file" pack="fas" >}} Summary of {{< staticref "media/Summary_of_Teaching_Evaluations.pdf" "newtab" >}}course evaluations{{< /staticref >}}.
