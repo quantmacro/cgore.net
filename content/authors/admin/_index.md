@@ -54,7 +54,7 @@ social:
   link: https://aede.osu.edu/our-people/christina-gore
 - icon: cv
   icon_pack: ai
-  link: media/Gore_CV_Aug21.pdf
+  link: media/Gore_CV_Oct21.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,4 +70,4 @@ highlight_name: false
 
 I am PhD candidate studying environmental, regional, and transportation economics in The Ohio State University's Department of Agricultural, Environmental, and Development Economics. My research focuses on the behavioral drivers, policy interventions, and incentives to increase sustainable technology adoption including electric vehicles and public transportation. I strive to answer questions in my research that are both academically interesting and policy relevant.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Gore_CV_Aug21.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Gore_CV_Oct21.pdf" "newtab" >}}CV{{< /staticref >}}.
