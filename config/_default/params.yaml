@@ -145,8 +145,8 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
+  google_analytics: 'UA-207282638-1'
+  google_tag_manager: 'GTM-TWR9JLF'
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
