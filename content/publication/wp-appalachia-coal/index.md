@@ -4,9 +4,9 @@ title: "The impact of coal mining jobs disappearing in Appalachia and economic r
 authors:
 - admin
 
-date: "2026-09-01"
+date: "2020-01-01"
 
-publishDate: "2026-09-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 
 # Publication type. 2 = Journal article; 3 = Working paper; 4 = Report; 7 = Thesis.
 # Full legend: https://wowchemy.com/docs/content/publications/

@@ -8,9 +8,9 @@ authors:
 - David Butry
 - Bilal Ayyub
 
-date: "2026-09-01"
+date: "2023-01-01"
 
-publishDate: "2026-09-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 # Publication type. 2 = Journal article; 3 = Working paper; 4 = Report; 7 = Thesis.
 # Full legend: https://wowchemy.com/docs/content/publications/
