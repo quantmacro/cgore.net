@@ -75,4 +75,4 @@ I am a research economist in the Applied Economics Office at the National Instit
 
 My research studies the behavioral drivers, policy interventions, and incentives behind sustainable technology adoption and resilience decisions, using choice experiments, survey design, and stated and revealed preference methods. I strive to answer questions in my research that are both academically interesting and policy relevant.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Gore_CV_Sep26.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "media/Gore_CV_Sep26.pdf" "newtab" >}}Download my CV{{< /staticref >}}

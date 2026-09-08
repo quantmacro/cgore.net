@@ -12,7 +12,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Biography
+# No title: the section is her introduction and her name already heads it, so a
+# "Biography" label here only competes with the name for attention.
+title: ""
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.

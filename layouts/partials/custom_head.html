@@ -26,14 +26,12 @@
   .dark .article-title,
   .dark .section-heading h1 { color: #EDF1EF; }
 
-  /* Section headings sit above a single hairline: a graduation mark, used here
-     and nowhere else, so it reads as structure rather than decoration. */
+  /* Section headings sit in a narrow left column, so an underline renders as a
+     short orphan segment rather than a rule. Give them breathing room instead. */
   .home-section .section-heading {
-    border-bottom: 1px solid var(--cal-rule);
     padding-bottom: 0.6rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
   }
-  .dark .home-section .section-heading { border-bottom-color: #2A3A44; }
 
   /* Body text keeps a readable measure. */
   .article-style, .article-style p, .home-section .card-text {
@@ -50,6 +48,15 @@
     background-color: transparent;
   }
   .dark .card, .dark .card-simple { border-color: #2A3A44; }
+
+  /* The profile links sat larger than the name they belong to. Bring them down to
+     a uniform size and one colour so the name stays the anchor of the page. */
+  .network-icon { gap: 0.9rem; }
+  .network-icon a { color: var(--cal-ink); }
+  .network-icon a:hover { color: #0F5E5A; }
+  .network-icon i,
+  .network-icon .ai { font-size: 1.15rem; line-height: 1; }
+  .dark .network-icon a { color: #C7D0CC; }
 
   /* Publication rows: the year rail reads as a scale down the left. */
   .pub-row-heading {
