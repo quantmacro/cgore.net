@@ -21,7 +21,11 @@ url_video: ''
 slides: ""
 ---
 
-Emissions numbers are increasingly used in financial and procurement decisions
-that were never designed around measurement uncertainty. This project examined
-how emissions measurement reaches those economic and financial applications. It
-asked what the measurement side owes the people relying on it.
+The United States is building an integrated system for measuring and monitoring
+greenhouse gases. The numbers it produces are already being used in financial
+and procurement decisions. This project worked on the economics of that: what
+better emissions data is worth, who benefits from it, and how those benefits and
+costs should be demonstrated to the people funding the measurement.
+
+Led in the Applied Economics Office, which carries the economic analysis behind
+NIST's measurement programs.

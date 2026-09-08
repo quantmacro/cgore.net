@@ -18,7 +18,15 @@ publication_types: ["report"]
 publication: "National Institute of Standards and Technology, NIST Technical Note 2328"
 publication_short: "NIST TN 2328"
 
-abstract:
+abstract: >-
+  Battery electric vehicles (BEVs) adoption in the United States and around the world is
+  increasing rapidly, so understanding consumer preferences and perspectives surrounding BEV
+  adoption is increasingly important. Additionally, most BEVs that have been purchased by
+  consumers have been new vehicles, however the pre-owned market is beginning to develop and take
+  shape. The consumer perspectives and considerations for purchasing a pre-owned BEV may vary
+  significantly from a consumers decision making process when buying a new BEV. This report
+  analyzes survey data on consumer's preferences for information on the longevity and health of a
+  battery of a used BEV.
 
 summary:
 

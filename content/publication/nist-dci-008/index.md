@@ -19,7 +19,16 @@ publication_types: ["report"]
 publication: "National Institute of Standards and Technology, NIST DCI 008"
 publication_short: "NIST DCI 008"
 
-abstract:
+abstract: >-
+  This data collection instrument provides guideline and some example survey questions aimed at
+  understanding consumer preferences and willingness to pay for battery health information in the
+  used battery electric vehicle (BEV) market. The potential survey design includes questions about
+  current vehicle information, future vehicle preferences, a discrete choice experiment (DCE), EV
+  knowledge, and demographics. The DCE systematically varies both standard vehicle attributes
+  (e.g., price, mileage) and battery-specific features (e.g., state-of-health, refurbishment
+  history) to quantify the economic value consumers place on battery-related information. Findings
+  from this research project will improve the understanding of second-life battery markets, and
+  guide future research in the evolving used EV landscape.
 
 summary:
 
