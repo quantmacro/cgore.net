@@ -24,7 +24,7 @@ abstract:
 
 summary:
 
-tags: []
+tags: ["Electric Vehicles", "Choice Experiments"]
 
 featured: true
 

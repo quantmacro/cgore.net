@@ -24,7 +24,7 @@ abstract:
 
 summary:
 
-tags: []
+tags: ["Choice Experiments"]
 
 featured: false
 

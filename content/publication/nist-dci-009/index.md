@@ -26,7 +26,7 @@ abstract:
 
 summary:
 
-tags: []
+tags: ["Community Resilience", "Risk Preferences"]
 
 featured: false
 

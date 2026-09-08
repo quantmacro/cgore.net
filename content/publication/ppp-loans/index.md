@@ -23,7 +23,7 @@ abstract:
 
 summary:
 
-tags: []
+tags: ["Disaster Economics"]
 
 featured: false
 

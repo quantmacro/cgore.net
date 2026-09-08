@@ -24,7 +24,7 @@ abstract:
 
 summary:
 
-tags: []
+tags: ["Risk Preferences", "Disaster Economics"]
 
 featured: false
 

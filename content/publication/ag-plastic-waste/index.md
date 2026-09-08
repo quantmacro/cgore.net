@@ -23,7 +23,7 @@ abstract:
 
 summary:
 
-tags: []
+tags: ["Circular Economy"]
 
 featured: true
 

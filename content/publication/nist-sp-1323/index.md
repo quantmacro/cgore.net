@@ -22,7 +22,7 @@ abstract:
 
 summary:
 
-tags: []
+tags: ["Risk Preferences"]
 
 featured: false
 

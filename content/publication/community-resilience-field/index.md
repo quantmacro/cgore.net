@@ -23,7 +23,7 @@ abstract:
 
 summary:
 
-tags: []
+tags: ["Community Resilience", "Climate Adaptation"]
 
 featured: false
 

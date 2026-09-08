@@ -21,7 +21,7 @@ abstract:
 
 summary:
 
-tags: []
+tags: ["Community Resilience"]
 
 featured: false
 

@@ -40,6 +40,22 @@ experience:
     date_end: ''
     description: Teaches Environmental and Resource Economics in the Advanced Academic Programs MS in Applied Economics.
 
+  - title: Research Assistant
+    company: The Ohio State University
+    company_url: 'https://aede.osu.edu/'
+    location: Columbus, Ohio
+    date_start: '2021-01-01'
+    date_end: '2021-05-31'
+    description: Columbus Smart Cities program evaluation, with Elena Irwin, Department of Agricultural, Environmental, and Development Economics.
+
+  - title: Research Assistant
+    company: The Ohio State University
+    company_url: 'https://ceg.osu.edu/'
+    location: Columbus, Ohio
+    date_start: '2019-06-01'
+    date_end: '2020-12-31'
+    description: Ford Alliance project on electric vehicles, with Andre Carrel, Department of Civil, Environmental, and Geodetic Engineering.
+
 design:
   columns: '2'
 ---

@@ -22,7 +22,7 @@ abstract:
 
 summary:
 
-tags: []
+tags: ["Electric Vehicles"]
 
 featured: false
 

@@ -33,7 +33,7 @@ abstract: Battery electric vehicles (BEVs) have received increasing attention in
 # Summary. An optional shortened abstract.
 summary:
 
-tags: []
+tags: ["Electric Vehicles", "Transportation"]
 
 # Display this page in the Featured widget?
 featured: true
