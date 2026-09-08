@@ -52,7 +52,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/christina-gore-428584100/
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=qi82RXYAAAAJ
+- icon: graduation-cap
   icon_pack: fas
   link: https://www.nist.gov/people/christina-gore
 - icon: cv
