@@ -14,7 +14,20 @@ header:
   image: ""
 ---
 
-## AEDE 4330 The Sustainable Economy: Concepts and Methods -- Spring 2020
+## Johns Hopkins University
+
+### AS.440.650.80 Environmental and Resource Economics
+
+Adjunct instructor, MS in Applied Economics (masters level).
+
+- Spring 2026 (15 students)
+- Fall 2025 (35 students)
+
+## The Ohio State University
+
+### AEDE 4330 The Sustainable Economy: Concepts and Methods
+
+Independent instructor, Spring 2020 (upper level undergraduate, 27 students).
 
 - {{< icon name="file-alt" pack="fas" >}} {{< staticref "media/Syllabus_AEDE4330.pdf" "newtab" >}}Syllabus{{< /staticref >}}.
 

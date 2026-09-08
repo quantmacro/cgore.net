@@ -6,28 +6,31 @@ title: Christina Gore
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Research Economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The Ohio State University
-  url: https://www.osu.edu/
+- name: National Institute of Standards and Technology
+  url: https://www.nist.gov/
+- name: Johns Hopkins University
+  url: https://advanced.jhu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a 5th year PhD Candidate in AED Economics at The Ohio State University on the 2021-22 economics job market.
+bio: I am a research economist in the Applied Economics Office at NIST, working on environmental, behavioral, and community resilience economics.
 
 # Interests to show in About widget
 interests:
-- Environmental Economics
-- Regional and Urban Economics
-- Transportation and Mobility
+- Environmental and Behavioral Economics
+- Community Resilience
+- Regional and Transportation Economics
+- Choice Experiments and Survey Design
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in AED Economics
     institution: The Ohio State University
-    year: 2022 (Expected)
+    year: 2022
   - course: MS in AED Economics
     institution: The Ohio State University
     year: 2019
@@ -42,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gore.127@osu.edu'
+  link: 'mailto:christina.gore@nist.gov'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ChristinaGore13
@@ -51,7 +54,7 @@ social:
   link: https://www.linkedin.com/in/christina-gore-428584100/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://aede.osu.edu/our-people/christina-gore
+  link: https://www.nist.gov/people/christina-gore
 - icon: cv
   icon_pack: ai
   link: media/Gore_CV_Sep26.pdf
@@ -68,8 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-I am PhD candidate on the 2021-22 economics job market studying environmental, regional, and transportation economics in The Ohio State University's Department of Agricultural, Environmental, and Development Economics. My research focuses on the behavioral drivers, policy interventions, and incentives to increase sustainable technology adoption including electric vehicles and public transportation. I strive to answer questions in my research that are both academically interesting and policy relevant.
+I am a research economist in the Applied Economics Office at the National Institute of Standards and Technology, where I lead projects on the circular economy of battery electric vehicles, consumer perspectives on plastic recycling, and the economics of community resilience planning. I also teach environmental and resource economics as an adjunct in Johns Hopkins University's MS in Applied Economics program.
+
+My research studies the behavioral drivers, policy interventions, and incentives behind sustainable technology adoption and resilience decisions, using choice experiments, survey design, and stated and revealed preference methods. I strive to answer questions in my research that are both academically interesting and policy relevant.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Gore_CV_Sep26.pdf" "newtab" >}}CV{{< /staticref >}}.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Gore_JMP.pdf" "newtab" >}}Job Market paper{{< /staticref >}}.
