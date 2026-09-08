@@ -14,6 +14,20 @@ title: Contact
 subtitle:
 
 content:
+  text: |-
+    For questions about the research on this site, or to discuss collaboration, email is best.
+
+  # Contact details are read from this block in Wowchemy v5, not from params.yaml.
+  email: christina.gore@nist.gov
+  address:
+    street: 100 Bureau Drive
+    city: Gaithersburg
+    region: MD
+    postcode: '20899'
+    country: United States
+    country_code: US
+  directions: Applied Economics Office, National Institute of Standards and Technology
+
   # Automatically link email and phone or display as text?
   autolink: true
 

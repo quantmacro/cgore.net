@@ -1,0 +1,46 @@
+# Theme metadata
+# Calibration: drawn from measurement instruments and reference standards, the
+# vernacular of the agency this site's owner works for. Verdigris is the patina
+# of aged instrument brass; the paper is a cool engineering white rather than a
+# warm literary cream.
+name = "Calibration"
+
+[light]
+  # Primary
+  primary = "#0F5E5A"
+
+  # Menu
+  menu_primary = "#17232E"
+  menu_text = "#D6DDD9"
+  menu_text_active = "#7FCEC2"
+  menu_title = "#FFFFFF"
+
+  # Backgrounds
+  background = "#F5F6F3"
+  home_section_odd = "#F5F6F3"
+  home_section_even = "#EAEEE8"
+
+  # Links
+  link = "#0F5E5A"
+  link_hover = "#0A4642"
+  link_decoration = "underline"
+
+[dark]
+  # Primary
+  primary = "#68BFB4"
+
+  # Menu
+  menu_primary = "#0E161C"
+  menu_text = "#C4CDC9"
+  menu_text_active = "#68BFB4"
+  menu_title = "#FFFFFF"
+
+  # Backgrounds
+  background = "#101A20"
+  home_section_odd = "#101A20"
+  home_section_even = "#16232B"
+
+  # Links
+  link = "#68BFB4"
+  link_hover = "#93D6CD"
+  link_decoration = "underline"

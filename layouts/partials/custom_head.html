@@ -1,0 +1,82 @@
+{{/*
+  Calibration: site-specific refinements layered over the Wowchemy theme.
+  This is the theme's documented custom_head hook, not a template override, so it
+  does not fork any theme layout and survives a theme upgrade.
+*/}}
+<style>
+  :root {
+    --cal-ink: #17232E;
+    --cal-rule: #C6CEC8;
+    --cal-muted: #5A6B66;
+    --cal-mark: #8C2F39;
+    --cal-measure: 68ch;
+  }
+
+  /* Headings carry the personality: serif, tight, dark slate rather than pure black. */
+  h1, h2, h3, h4,
+  .article-title,
+  .section-heading h1 {
+    font-weight: 500;
+    letter-spacing: -0.011em;
+    color: var(--cal-ink);
+  }
+  .article-title { line-height: 1.18; }
+
+  .dark h1, .dark h2, .dark h3, .dark h4,
+  .dark .article-title,
+  .dark .section-heading h1 { color: #EDF1EF; }
+
+  /* Section headings sit above a single hairline: a graduation mark, used here
+     and nowhere else, so it reads as structure rather than decoration. */
+  .home-section .section-heading {
+    border-bottom: 1px solid var(--cal-rule);
+    padding-bottom: 0.6rem;
+    margin-bottom: 2rem;
+  }
+  .dark .home-section .section-heading { border-bottom-color: #2A3A44; }
+
+  /* Body text keeps a readable measure. */
+  .article-style, .article-style p, .home-section .card-text {
+    max-width: var(--cal-measure);
+  }
+  .article-style { line-height: 1.65; }
+
+  /* Quiet the stock card treatment: no drop shadows, one hairline instead. */
+  .card,
+  .card-simple {
+    box-shadow: none;
+    border: 1px solid var(--cal-rule);
+    border-radius: 3px;
+    background-color: transparent;
+  }
+  .dark .card, .dark .card-simple { border-color: #2A3A44; }
+
+  /* Publication rows: the year rail reads as a scale down the left. */
+  .pub-row-heading {
+    color: var(--cal-muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .dark .pub-row-heading { color: #93A29D; }
+
+  .pub-icon { color: var(--cal-muted); }
+
+  /* Review status on working papers is information, so it is the one place a
+     second colour appears. */
+  .article-metadata a[href*="publication-type/3"] { color: var(--cal-mark); }
+
+  /* Keyboard focus stays visible. */
+  a:focus-visible, button:focus-visible, .navbar a:focus-visible {
+    outline: 2px solid var(--cal-mark);
+    outline-offset: 2px;
+  }
+  .dark a:focus-visible, .dark button:focus-visible { outline-color: #E4907E; }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+</style>

@@ -21,7 +21,27 @@ publication_types: ["2"]
 publication: "Environmental Research: Climate, 5(1), 015016"
 publication_short: "Environmental Research: Climate"
 
-abstract:
+abstract: >-
+  Adaptations to extreme weather events are increasing in prevalence across the globe.
+  Adaptation actions can produce co-benefits, which are ancillary positive outcomes beyond
+  the primary objectives of reducing risk and enhancing resilience. Despite growing attention
+  to co-benefits in the adaptation literature, systematic analyses across adaptation types,
+  sectors, actors, and regions remain limited. This study uses the global adaptation mapping
+  initiative database to investigate the associations between adaptation characteristics and
+  the presence of co-benefits. We processed and coded 1684 articles, to categorize co-benefits
+  and analyzed them alongside other adaptation characteristics through descriptive statistics,
+  chi-squared tests, and logistic regressions. We found generally weak associations between
+  adaptation characteristics and the presence of co-benefits. Further, the regression results
+  showed that there were no significant differences between the associations with co-benefits
+  of adaptations that occur across economic sectors. Ecosystem based responses were found to be
+  more likely to be associated with the presence of co-benefits than human behavioral based
+  responses. Technical or infrastructural responses were found to be less likely to be
+  associated with co-benefits than human behavioral responses. Additionally, while some of the
+  chi-squared associations and regression associations trended together, they also differed
+  leading to ambiguity in the types of adaptations that often have co-benefits present. These
+  findings highlight the need for improved co-benefit assessment frameworks and enhanced
+  co-benefit documentation. Enhanced documentation could better inform adaptation planning and
+  maximize the ancillary benefits of adaptation actions.
 
 summary:
 
