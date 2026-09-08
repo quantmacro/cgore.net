@@ -3,7 +3,7 @@ title: "Consumer Perspectives on Battery Electric Vehicles: A Literature Review"
 
 authors:
 - admin
-- Sindhu Ranganath
+- Sindhuja Lakshmipuram Ranganath
 - Joshua Kneifel
 - Dunsin Fadojutimi
 - Jennifer Helgeson
