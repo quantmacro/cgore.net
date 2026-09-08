@@ -20,7 +20,10 @@ marketing:
     description: 'Christina Gore is a research economist at NIST studying community resilience, electric vehicle adoption, and consumer preferences using choice experiments and survey design.'
     twitter: 'ChristinaGore13'
   analytics:
-    google_analytics: 'UA-207282638-1'
+    # Universal Analytics stopped processing data in July 2023, so the old
+    # UA-207282638-1 property collected nothing. Put a GA4 id (G-...) here to
+    # resume measurement, or leave blank to load no analytics script at all.
+    google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: 'GTM-TWR9JLF'
     microsoft_clarity: ''

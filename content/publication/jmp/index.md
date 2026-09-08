@@ -22,8 +22,8 @@ date: "2021-09-09"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: Job Market Paper
-publication_short: JMP
+publication: "Job market paper, The Ohio State University, 2021"
+publication_short: "Job market paper, 2021"
 
 abstract: "Battery electric vehicles (BEVs) are widely viewed as an effective option for vehicle
 owners to reduce carbon dioxide emissions, but the amount of emissions reduction that is
