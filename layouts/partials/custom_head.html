@@ -49,6 +49,14 @@
   }
   .dark .card, .dark .card-simple { border-color: #2A3A44; }
 
+  /* Wowchemy builds two dark-mode rules out of the LIGHT primary, so the employer
+     link on each experience card rendered dark teal on a dark card. Its selector
+     scores (0,3,1) and so beats the theme's own `.dark a`. Restate at the same
+     specificity with the dark primary, which clears AA on the card. */
+  .dark .card .section-subheading a { color: #68BFB4; }
+  .dark .card .section-subheading a:hover { color: #93D6CD; }
+  .dark .form-control:focus { border-color: #68BFB4; }
+
   /* The profile links sat larger than the name they belong to. Bring them down to
      a uniform size and one colour so the name stays the anchor of the page. */
   .network-icon { gap: 0.9rem; }
