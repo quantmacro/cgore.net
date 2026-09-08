@@ -33,5 +33,5 @@ url_slides: ""
 url_video: ""
 
 slides: ""
-projects: []
+projects: ["community-resilience-economics"]
 ---
