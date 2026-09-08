@@ -16,7 +16,7 @@ publishDate: "2026-01-01T00:00:00Z"
 
 # Publication type. 2 = Journal article; 4 = Report; 7 = Thesis.
 # Full legend: https://wowchemy.com/docs/content/publications/
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 publication: "Environmental Research: Climate, 5(1), 015016"
 publication_short: "Environmental Research: Climate"

@@ -1,0 +1,6 @@
+# Site-level overrides of the theme's translations.
+# The theme labels the `article` publication type "Preprint"; in economics these
+# are working papers, which is what the CV and the pages themselves call them.
+
+- id: pub_article
+  translation: Working paper

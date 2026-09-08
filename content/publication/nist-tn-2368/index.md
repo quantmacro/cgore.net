@@ -13,7 +13,7 @@ publishDate: "2026-01-01T00:00:00Z"
 
 # Publication type. 2 = Journal article; 4 = Report; 7 = Thesis.
 # Full legend: https://wowchemy.com/docs/content/publications/
-publication_types: ["4"]
+publication_types: ["report"]
 
 publication: "National Institute of Standards and Technology, NIST Technical Note 2368"
 publication_short: "NIST TN 2368"

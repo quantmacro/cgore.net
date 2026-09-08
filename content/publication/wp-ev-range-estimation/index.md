@@ -12,7 +12,7 @@ publishDate: "2026-01-01T00:00:00Z"
 
 # Publication type. 2 = Journal article; 3 = Working paper; 4 = Report; 7 = Thesis.
 # Full legend: https://wowchemy.com/docs/content/publications/
-publication_types: ["3"]
+publication_types: ["article"]
 
 publication: "Working paper, revisions requested"
 publication_short: "Revisions requested"
