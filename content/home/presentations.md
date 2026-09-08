@@ -1,6 +1,6 @@
 ---
-# A section created with the Blank widget.
-widget: blank
+# A section created with the Markdown block. `blank` was the pre-v5 name.
+widget: markdown
 headless: true  # This file represents a page section.
 active: true
 weight: 65
