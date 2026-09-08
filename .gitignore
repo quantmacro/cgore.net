@@ -4,5 +4,6 @@
 # Hugo
 /resources/
 public/
+.hugo_build.lock
 jsconfig.json
 node_modules/

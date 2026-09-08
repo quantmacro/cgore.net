@@ -8,8 +8,8 @@ share: false  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
 
-# Optional header image (relative to `assets/media/` folder).
-header:
+# Optional banner image (relative to `assets/media/` folder).
+banner:
   caption: ""
   image: ""
 ---
