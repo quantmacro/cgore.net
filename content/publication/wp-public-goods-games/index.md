@@ -2,13 +2,13 @@
 title: "Decision making in public goods games with teams and punishment"
 
 authors:
-- admin
 - Mir Adnan Mahmood
 - John Kagel
+- admin
 
-date: "2020-01-01"
+date: "2022-09-01"
 
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2022-09-01T00:00:00Z"
 
 # Publication type. 2 = Journal article; 3 = Working paper; 4 = Report; 7 = Thesis.
 # Full legend: https://wowchemy.com/docs/content/publications/
