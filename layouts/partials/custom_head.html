@@ -87,6 +87,7 @@
   .dark a:focus-visible, .dark button:focus-visible { outline-color: #E4907E; }
 
   @media (prefers-reduced-motion: reduce) {
+
     *, *::before, *::after {
       animation-duration: 0.001ms !important;
       animation-iteration-count: 1 !important;
@@ -95,3 +96,41 @@
     }
   }
 </style>
+
+{{/* The theme emits WebSite and SearchAction but no Person, which is what search
+     engines read for an author. Homepage only, so it is stated once. */}}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Christina Gore",
+  "url": "https://christinagore.org/",
+  "image": "https://christinagore.org/media/sharing.png",
+  "jobTitle": "Research Economist",
+  "email": "mailto:christina.gore@nist.gov",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "National Institute of Standards and Technology",
+    "url": "https://www.nist.gov/"
+  },
+  "alumniOf": [
+    { "@type": "CollegeOrUniversity", "name": "The Ohio State University" },
+    { "@type": "CollegeOrUniversity", "name": "The University of Tennessee" }
+  ],
+  "knowsAbout": [
+    "Environmental economics",
+    "Community resilience",
+    "Electric vehicle adoption",
+    "Discrete choice experiments",
+    "Transportation economics"
+  ],
+  "sameAs": [
+    "https://orcid.org/0000-0002-3586-6918",
+    "https://scholar.google.com/citations?user=qi82RXYAAAAJ",
+    "https://www.nist.gov/people/christina-gore",
+    "https://www.linkedin.com/in/christina-gore-428584100/"
+  ]
+}
+</script>
+{{ end }}

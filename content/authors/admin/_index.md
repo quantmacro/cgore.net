@@ -55,6 +55,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=qi82RXYAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-3586-6918
 - icon: graduation-cap
   icon_pack: fas
   link: https://www.nist.gov/people/christina-gore

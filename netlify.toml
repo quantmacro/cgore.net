@@ -15,6 +15,19 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+# /cv is a permanent address for the current CV; update `to` when the file
+# changes. It lives here because the Wowchemy Netlify plugin generates
+# _redirects from page aliases and overwrites anything static/ puts there.
+[[redirects]]
+  from = "/cv"
+  to = "/media/Gore_CV_Sep26.pdf"
+  status = 302
+
+[[redirects]]
+  from = "/cv/"
+  to = "/media/Gore_CV_Sep26.pdf"
+  status = 302
+
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
