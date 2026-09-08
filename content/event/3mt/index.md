@@ -4,16 +4,10 @@ title: What drives battery electric vehicle adoption?
 event: Three Minute Thesis Competition
 event_url: https://gradsch.osu.edu/three-minute-thesis-3mt
 
-location: Ohio State University
-<!-- address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States -->
+location: The Ohio State University
 
 summary:
-abstract: Three Minute Thesis -- 2nd Place University Wide
+abstract: Second place, university wide, in the Three Minute Thesis competition.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

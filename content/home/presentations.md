@@ -16,6 +16,5 @@ design:
 - 2025 Natural Hazards Workshop Researcher's Meeting
 - 2024 Natural Hazards Engineering Research Infrastructure Summit, and Natural Hazards Workshop Researcher's Meeting
 - 2023 Natural Hazards Workshop Researcher's Meeting, and Agricultural and Applied Economics Association
-- 2021 Conference of the International Transportation Economics Association, and North American Regional Science Association
-- 2020 Online Summer Workshop in Environment, Energy, and Transportation, and North American Regional Science Association
-- 2019 North American Regional Science Association
+
+[See all presentations](./event/)
