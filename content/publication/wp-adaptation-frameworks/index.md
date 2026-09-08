@@ -2,9 +2,9 @@
 title: "The role of adaptation frameworks in community resilience planning: Field formation and conceptual development"
 
 authors:
-- admin
 - Jonathan Tollefson
 - Scott Frickel
+- admin
 - Jennifer Helgeson
 
 date: "2026-01-01"

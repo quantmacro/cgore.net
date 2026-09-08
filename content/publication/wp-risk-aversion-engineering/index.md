@@ -2,9 +2,9 @@
 title: "Risk Aversion for Engineering Economic Modeling"
 
 authors:
-- admin
 - Sherief Elsibaie
 - Jennifer Helgeson
+- admin
 - David Butry
 - Bilal Ayyub
 

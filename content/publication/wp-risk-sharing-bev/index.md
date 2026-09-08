@@ -2,9 +2,9 @@
 title: "Consumer preferences for risk sharing: An application to battery electric vehicles"
 
 authors:
-- admin
 - Andre Carrel
 - Lee White
+- admin
 
 date: "2022-01-01"
 
